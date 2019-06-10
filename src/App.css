@@ -1,6 +1,6 @@
-.App {
-  text-align: center;
-}
+/* .App {
+  text-align: left;
+} */
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
@@ -30,4 +30,11 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.users-container {
+/* text-align: center; */
+display: inline-block;
+padding-left: 20px;
+padding-top: 20px;
 }
